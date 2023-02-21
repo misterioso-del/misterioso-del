@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+## desenvolvedor de jogos
 
 - 🌱Atualmente, estou aprendendo mais sobre desenvolvimento de back-end
 
@@ -31,28 +31,6 @@
 🌙 noite         11 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 
 ```
-
-
-📊 **Esta semana eu gastei meu tempo** 
-
-```text
-⌚︎ Time Zone: America/Chicago
-Esta semana eu gastei meu tempo
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 21/02/2023 18:42:03 UTC
-<!--END_SECTION:waka-->
-
-
----
-
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
