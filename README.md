@@ -4,9 +4,7 @@
 
 ## I'm a Backend Developer
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
-- 😄 Pronouns: He/Him
+- 🌱Atualmente, estou aprendendo mais sobre desenvolvimento de back-end
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
@@ -27,19 +25,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning       15 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌆 Daytime       44 commits       █████████████░░░░░░░░░░░░   52.38 % 
-🌃 Evening       14 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌙 Night         11 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌞 tarde         15 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌆 dia           44 commits       █████████████░░░░░░░░░░░░   52.38 % 
+🌃 noite         14 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌙 noite         11 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo** 
 
 ```text
 ⌚︎ Time Zone: America/Chicago
-
+Esta semana eu gastei meu tempo
 💬 Programming Languages: 
 No Activity Tracked This Week
 
